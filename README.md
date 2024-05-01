@@ -19,4 +19,7 @@
 
 10) To avoid having to restart the machine, you can right-click on the task created in the list, and click on execute.
 
-OBS: Select Run with highest privileges in one of the windows
+OBS: 
+1) Select Run with highest privileges in one of the windows;
+2) After edit .bat put the .bat on C:\
+
