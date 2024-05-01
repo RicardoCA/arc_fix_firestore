@@ -1,4 +1,4 @@
-# arc_fix_firestore
+# Arc Fix Tutorial
 1) The First step, download the repository and close Arc Browser;
 
 2) Edit ArcFix.bat, change C:\Users\riica (riica must be replaced with the user's folder name);
