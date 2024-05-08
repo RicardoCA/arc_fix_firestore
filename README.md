@@ -21,5 +21,5 @@
 
 OBS: 
 1) Select Run with highest privileges in one of the windows;
-2) After edit .bat put the .bat on C:\
+2) After edit .bat put the .bat and the .ps1 on C:\
 
