@@ -4,7 +4,7 @@ $taskExecuted = $false
 # Função para executar a tarefa desejada
 function ExecuteTask {
     Write-Output "O processo $processName foi fechado."
-    Start-Process "C:\\ArcFix.bat"
+    rm -r -fo $env:USERPROFILE\AppData\Local\Packages\TheBrowserCompany.Arc_ttt1ap7aakyb4\LocalCache\Local\firestore\Arc
 }
 
 # Monitora o processo em loop
